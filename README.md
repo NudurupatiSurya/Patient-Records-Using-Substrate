@@ -1,4 +1,4 @@
-# Substrate Node Template modified for Patient Records
+# Substrate Node Template modified to store and retrieve Patient records
 
 A fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacking :rocket:
 
